@@ -1,7 +1,7 @@
 # Hi there 👋, I am Daniel Shotonwa  👨‍💻
 <p>Smashing keyboard at <a href="https://fluxx.io/">FluxxLabs</a> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25"></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/d_showWorld?label=Follow) [![Linkedin: Daniel Shotonwa](https://img.shields.io/badge/-Danielshow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shotonwa-daniel-aa8190125/)](https://www.linkedin.com/in/shotonwa-daniel-aa8190125/) ![GitHub followers](https://img.shields.io/github/followers/Danielshow?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/d_showWorld?label=Follow)](https://twitter.com/d_showWorld/) [![Linkedin: Daniel Shotonwa](https://img.shields.io/badge/-Danielshow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shotonwa-daniel-aa8190125/)](https://www.linkedin.com/in/shotonwa-daniel-aa8190125/) ![GitHub followers](https://img.shields.io/github/followers/Danielshow?label=Follow&style=social)
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350">
 
